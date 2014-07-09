@@ -1,0 +1,12 @@
+0000 (      :=        0        _        i)
+0001 (      in  std::in        _        i)
+0002 (     j!=        i        0        5)
+0003 (      :=        0        _       t1)
+0004 (      jp        _        _        6)
+0005 (      :=        1        _       t1)
+0006 (      jz       t1        _   label1)
+0007 (     out        1        _ std::out)
+0008 (      jp        _        _   label2)
+label1:
+0009 (     out        0        _ std::out)
+label2:

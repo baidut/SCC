@@ -1,0 +1,705 @@
+# depslib dependency file v1.0
+1404127631 source:d:\users\admin\documents\百度云同步盘\大三小学期课程\编译原理课程设计\scc\lex.c
+	<stdio.h>
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404127216 d:\users\admin\documents\百度云同步盘\大三小学期课程\编译原理课程设计\scc\lex.h
+	"common.h"
+	"token.h"
+
+1404124431 d:\users\admin\documents\百度云同步盘\大三小学期课程\编译原理课程设计\scc\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"debug.h"
+
+1404124697 d:\users\admin\documents\百度云同步盘\大三小学期课程\编译原理课程设计\scc\debug.h
+	"debug_settings.h"
+
+1404124553 d:\users\admin\documents\百度云同步盘\大三小学期课程\编译原理课程设计\scc\debug_settings.h
+
+1404127568 d:\users\admin\documents\百度云同步盘\大三小学期课程\编译原理课程设计\scc\token.h
+
+1404127433 d:\users\admin\documents\百度云同步盘\大三小学期课程\编译原理课程设计\scc\token_keywords.h
+
+1404124945 source:d:\users\admin\documents\百度云同步盘\大三小学期课程\编译原理课程设计\scc\main.c
+	"lex.h"
+
+1404547874 source:d:\users\admin\desktop\scc\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404547729 d:\users\admin\desktop\scc\lex.h
+	"common.h"
+
+1404547839 d:\users\admin\desktop\scc\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"debug.h"
+	"token.h"
+
+1404544184 d:\users\admin\desktop\scc\debug.h
+	"debug_settings.h"
+
+1404545655 d:\users\admin\desktop\scc\debug_settings.h
+
+1404370686 d:\users\admin\desktop\scc\token.h
+	"token_keywords.h"
+
+1404127434 d:\users\admin\desktop\scc\token_keywords.h
+
+1404546962 source:d:\users\admin\desktop\scc\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404539539 source:d:\users\admin\desktop\scc\parse.c
+	"parse.h"
+	"lex.h"
+
+1404536496 d:\users\admin\desktop\scc\parse.h
+	"common.h"
+
+1404376589 source:c:\users\administrator\desktop\scc\lex.c
+	<stdio.h>
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404359192 c:\users\administrator\desktop\scc\lex.h
+	"common.h"
+	"token.h"
+
+1404371833 c:\users\administrator\desktop\scc\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"debug.h"
+
+1404124698 c:\users\administrator\desktop\scc\debug.h
+	"debug_settings.h"
+
+1404124554 c:\users\administrator\desktop\scc\debug_settings.h
+
+1404370684 c:\users\administrator\desktop\scc\token.h
+	"token_keywords.h"
+
+1404127434 c:\users\administrator\desktop\scc\token_keywords.h
+
+1404375901 source:c:\users\administrator\desktop\scc\main.c
+	"lex.h"
+	"parse.h"
+
+1404368892 c:\users\administrator\desktop\scc\parse.h
+
+1404370801 source:c:\users\administrator\desktop\scc\parse.c
+	"parse.h"
+	"lex.h"
+
+1404377247 source:c:\users\administrator\desktop\scc\gen.c
+	"parse.h"
+	"lex.h"
+	<string.h>
+
+1404547659 source:d:\users\admin\desktop\scc\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404399019 source:d:\users\admin\desktop\scc\test.c
+	"gen.h"
+
+1404546896 d:\users\admin\desktop\scc\gen.h
+	"common.h"
+
+1404544761 source:d:\users\admin\desktop\scc\debug.c
+	"debug.h"
+	<windows.h>
+
+1404547748 d:\users\admin\desktop\scc\code.h
+	"common.h"
+
+1404547818 source:d:\users\admin\desktop\scc\code.c
+	"code.h"
+
+1404547818 source:d:\users\admin\desktop\scc\src\code.c
+	"code.h"
+
+1404547748 d:\users\admin\desktop\scc\src\code.h
+	"common.h"
+
+1404549144 d:\users\admin\desktop\scc\src\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"debug.h"
+	"token.h"
+
+1404544184 d:\users\admin\desktop\scc\src\debug.h
+	"debug_settings.h"
+
+1404545655 d:\users\admin\desktop\scc\src\debug_settings.h
+
+1404370686 d:\users\admin\desktop\scc\src\token.h
+	"token_keywords.h"
+
+1404127434 d:\users\admin\desktop\scc\src\token_keywords.h
+
+1404544761 source:d:\users\admin\desktop\scc\src\debug.c
+	"debug.h"
+	<windows.h>
+
+1404548549 source:d:\users\admin\desktop\scc\src\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404547729 d:\users\admin\desktop\scc\src\lex.h
+	"common.h"
+
+1404547874 source:d:\users\admin\desktop\scc\src\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404539539 source:d:\users\admin\desktop\scc\src\parse.c
+	"parse.h"
+	"lex.h"
+
+1404536496 d:\users\admin\desktop\scc\src\parse.h
+	"common.h"
+
+1404399019 source:d:\users\admin\desktop\scc\src\test.c
+	"gen.h"
+
+1404546896 d:\users\admin\desktop\scc\src\gen.h
+	"common.h"
+
+1404549580 source:d:\users\admin\desktop\scc\src\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404641396 source:d:\users\admin\desktop\编译器课设 应振强\scc\src\code.c
+	"code.h"
+
+1404547748 d:\users\admin\desktop\编译器课设 应振强\scc\src\code.h
+	"common.h"
+
+1404606687 d:\users\admin\desktop\编译器课设 应振强\scc\src\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+
+1404544184 d:\users\admin\desktop\编译器课设 应振强\scc\src\debug.h
+	"debug_settings.h"
+
+1404545655 d:\users\admin\desktop\编译器课设 应振强\scc\src\debug_settings.h
+
+1404636971 d:\users\admin\desktop\编译器课设 应振强\scc\src\token.h
+	"token_keywords.h"
+
+1404636892 d:\users\admin\desktop\编译器课设 应振强\scc\src\token_keywords.h
+
+1404544761 source:d:\users\admin\desktop\编译器课设 应振强\scc\src\debug.c
+	"debug.h"
+	<windows.h>
+
+1404641993 source:d:\users\admin\desktop\编译器课设 应振强\scc\src\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404570978 d:\users\admin\desktop\编译器课设 应振强\scc\src\lex.h
+	"common.h"
+
+1404641499 source:d:\users\admin\desktop\编译器课设 应振强\scc\src\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404539539 source:d:\users\admin\desktop\编译器课设 应振强\scc\src\parse.c
+	"parse.h"
+	"lex.h"
+
+1404536496 d:\users\admin\desktop\编译器课设 应振强\scc\src\parse.h
+	"common.h"
+
+1404399019 source:d:\users\admin\desktop\编译器课设 应振强\scc\src\test.c
+	"gen.h"
+
+1404546896 d:\users\admin\desktop\编译器课设 应振强\scc\src\gen.h
+	"common.h"
+
+1404642841 source:d:\users\admin\desktop\编译器课设 应振强\scc\src\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404641396 source:d:\users\admin\desktop\scc\scc\src\code.c
+	"code.h"
+
+1404547748 d:\users\admin\desktop\scc\scc\src\code.h
+	"common.h"
+
+1404606687 d:\users\admin\desktop\scc\scc\src\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+
+1404544184 d:\users\admin\desktop\scc\scc\src\debug.h
+	"debug_settings.h"
+
+1404545655 d:\users\admin\desktop\scc\scc\src\debug_settings.h
+
+1404636971 d:\users\admin\desktop\scc\scc\src\token.h
+	"token_keywords.h"
+
+1404636892 d:\users\admin\desktop\scc\scc\src\token_keywords.h
+
+1404544761 source:d:\users\admin\desktop\scc\scc\src\debug.c
+	"debug.h"
+	<windows.h>
+
+1404641993 source:d:\users\admin\desktop\scc\scc\src\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404570978 d:\users\admin\desktop\scc\scc\src\lex.h
+	"common.h"
+
+1404641499 source:d:\users\admin\desktop\scc\scc\src\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404642841 source:d:\users\admin\desktop\scc\scc\src\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404536496 d:\users\admin\desktop\scc\scc\src\parse.h
+	"common.h"
+
+1404546896 d:\users\admin\desktop\scc\scc\src\gen.h
+	"common.h"
+
+1404539539 source:d:\users\admin\desktop\scc\scc\src\parse.c
+	"parse.h"
+	"lex.h"
+
+1404399019 source:d:\users\admin\desktop\scc\scc\src\test.c
+	"gen.h"
+
+1404641396 source:t:\tessssssssssssssssssssssssssssssssssss\scc\src\code.c
+	"code.h"
+
+1404547748 t:\tessssssssssssssssssssssssssssssssssss\scc\src\code.h
+	"common.h"
+
+1404606687 t:\tessssssssssssssssssssssssssssssssssss\scc\src\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+
+1404544184 t:\tessssssssssssssssssssssssssssssssssss\scc\src\debug.h
+	"debug_settings.h"
+
+1404545655 t:\tessssssssssssssssssssssssssssssssssss\scc\src\debug_settings.h
+
+1404636971 t:\tessssssssssssssssssssssssssssssssssss\scc\src\token.h
+	"token_keywords.h"
+
+1404636892 t:\tessssssssssssssssssssssssssssssssssss\scc\src\token_keywords.h
+
+1404544761 source:t:\tessssssssssssssssssssssssssssssssssss\scc\src\debug.c
+	"debug.h"
+	<windows.h>
+
+1404641993 source:t:\tessssssssssssssssssssssssssssssssssss\scc\src\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404570978 t:\tessssssssssssssssssssssssssssssssssss\scc\src\lex.h
+	"common.h"
+
+1404641499 source:t:\tessssssssssssssssssssssssssssssssssss\scc\src\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404642841 source:t:\tessssssssssssssssssssssssssssssssssss\scc\src\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404536496 t:\tessssssssssssssssssssssssssssssssssss\scc\src\parse.h
+	"common.h"
+
+1404546896 t:\tessssssssssssssssssssssssssssssssssss\scc\src\gen.h
+	"common.h"
+
+1404539539 source:t:\tessssssssssssssssssssssssssssssssssss\scc\src\parse.c
+	"parse.h"
+	"lex.h"
+
+1404399019 source:t:\tessssssssssssssssssssssssssssssssssss\scc\src\test.c
+	"gen.h"
+
+1404641396 source:t:\fuck\scc\src\code.c
+	"code.h"
+
+1404547748 t:\fuck\scc\src\code.h
+	"common.h"
+
+1404606687 t:\fuck\scc\src\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+
+1404544184 t:\fuck\scc\src\debug.h
+	"debug_settings.h"
+
+1404545655 t:\fuck\scc\src\debug_settings.h
+
+1404636971 t:\fuck\scc\src\token.h
+	"token_keywords.h"
+
+1404636892 t:\fuck\scc\src\token_keywords.h
+
+1404544761 source:t:\fuck\scc\src\debug.c
+	"debug.h"
+	<windows.h>
+
+1404641993 source:t:\fuck\scc\src\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404570978 t:\fuck\scc\src\lex.h
+	"common.h"
+
+1404641499 source:t:\fuck\scc\src\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404642841 source:t:\fuck\scc\src\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404536496 t:\fuck\scc\src\parse.h
+	"common.h"
+
+1404546896 t:\fuck\scc\src\gen.h
+	"common.h"
+
+1404539539 source:t:\fuck\scc\src\parse.c
+	"parse.h"
+	"lex.h"
+
+1404399019 source:t:\fuck\scc\src\test.c
+	"gen.h"
+
+1404544761 source:t:\fuck\scc\proj\debug.c
+	"debug.h"
+	<windows.h>
+
+1404544184 t:\fuck\scc\proj\debug.h
+	"debug_settings.h"
+
+1404545655 t:\fuck\scc\proj\debug_settings.h
+
+1404539539 source:t:\fuck\scc\proj\parse.c
+	"parse.h"
+	"lex.h"
+
+1404536496 t:\fuck\scc\proj\parse.h
+	"common.h"
+
+1404606687 t:\fuck\scc\proj\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+
+1404636971 t:\fuck\scc\proj\token.h
+	"token_keywords.h"
+
+1404636892 t:\fuck\scc\proj\token_keywords.h
+
+1404570978 t:\fuck\scc\proj\lex.h
+	"common.h"
+
+1404399019 source:t:\fuck\scc\proj\test.c
+	"gen.h"
+
+1404546896 t:\fuck\scc\proj\gen.h
+	"common.h"
+
+1404641396 source:t:\fuck\scc\proj\code.c
+	"code.h"
+
+1404547748 t:\fuck\scc\proj\code.h
+	"common.h"
+
+1404641993 source:t:\fuck\scc\proj\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404641499 source:t:\fuck\scc\proj\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404642841 source:t:\fuck\scc\proj\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404641396 source:t:\fuck\scc\code.c
+	"code.h"
+
+1404547748 t:\fuck\scc\code.h
+	"common.h"
+
+1404606687 t:\fuck\scc\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+
+1404544184 t:\fuck\scc\debug.h
+	"debug_settings.h"
+
+1404545655 t:\fuck\scc\debug_settings.h
+
+1404636971 t:\fuck\scc\token.h
+	"token_keywords.h"
+
+1404636892 t:\fuck\scc\token_keywords.h
+
+1404544761 source:t:\fuck\scc\debug.c
+	"debug.h"
+	<windows.h>
+
+1404645472 source:t:\fuck\scc\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404570978 t:\fuck\scc\lex.h
+	"common.h"
+
+1404645501 source:t:\fuck\scc\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404536496 t:\fuck\scc\parse.h
+	"common.h"
+
+1404546896 t:\fuck\scc\gen.h
+	"common.h"
+
+1404539539 source:t:\fuck\scc\parse.c
+	"parse.h"
+	"lex.h"
+
+1404399019 source:t:\fuck\scc\test.c
+	"gen.h"
+
+1404647131 source:t:\fuck\scc\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404544761 source:d:\users\admin\desktop\scc\scc\debug.c
+	"debug.h"
+	<windows.h>
+
+1404544184 d:\users\admin\desktop\scc\scc\debug.h
+	"debug_settings.h"
+
+1404545655 d:\users\admin\desktop\scc\scc\debug_settings.h
+
+1404645472 source:d:\users\admin\desktop\scc\scc\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404570978 d:\users\admin\desktop\scc\scc\lex.h
+	"common.h"
+
+1404606687 d:\users\admin\desktop\scc\scc\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+
+1404636971 d:\users\admin\desktop\scc\scc\token.h
+	"token_keywords.h"
+
+1404636892 d:\users\admin\desktop\scc\scc\token_keywords.h
+
+1404645501 source:d:\users\admin\desktop\scc\scc\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404536496 d:\users\admin\desktop\scc\scc\parse.h
+	"common.h"
+
+1404546896 d:\users\admin\desktop\scc\scc\gen.h
+	"common.h"
+
+1404539539 source:d:\users\admin\desktop\scc\scc\parse.c
+	"parse.h"
+	"lex.h"
+
+1404399019 source:d:\users\admin\desktop\scc\scc\test.c
+	"gen.h"
+
+1404661381 source:d:\users\admin\desktop\scc\src\scc-core\code.c
+	"code.h"
+
+1404547748 d:\users\admin\desktop\scc\src\scc-core\code.h
+	"common.h"
+
+1404606687 d:\users\admin\desktop\scc\src\scc-core\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+
+1404544184 d:\users\admin\desktop\scc\src\scc-core\debug.h
+	"debug_settings.h"
+
+1404545655 d:\users\admin\desktop\scc\src\scc-core\debug_settings.h
+
+1404636971 d:\users\admin\desktop\scc\src\scc-core\token.h
+	"token_keywords.h"
+
+1404636892 d:\users\admin\desktop\scc\src\scc-core\token_keywords.h
+
+1404544761 source:d:\users\admin\desktop\scc\src\scc-core\debug.c
+	"debug.h"
+	<windows.h>
+
+1404647516 source:d:\users\admin\desktop\scc\src\scc-core\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
+1404570978 d:\users\admin\desktop\scc\src\scc-core\lex.h
+	"common.h"
+
+1404645472 source:d:\users\admin\desktop\scc\src\scc-core\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404539539 source:d:\users\admin\desktop\scc\src\scc-core\parse.c
+	"parse.h"
+	"lex.h"
+
+1404536496 d:\users\admin\desktop\scc\src\scc-core\parse.h
+	"common.h"
+
+1404399019 source:d:\users\admin\desktop\scc\src\scc-core\test.c
+	"gen.h"
+
+1404546896 d:\users\admin\desktop\scc\src\scc-core\gen.h
+	"common.h"
+
+1404544761 source:d:\users\admin\desktop\scc release v1.0\src\scc-core\debug.c
+	"debug.h"
+	<windows.h>
+
+1404544184 d:\users\admin\desktop\scc release v1.0\src\scc-core\debug.h
+	"debug_settings.h"
+
+1404545655 d:\users\admin\desktop\scc release v1.0\src\scc-core\debug_settings.h
+
+1404645472 source:d:\users\admin\desktop\scc release v1.0\src\scc-core\lex.c
+	"lex.h"
+	"token_keywords.h"
+	"token.h"
+
+1404882888 d:\users\admin\desktop\scc release v1.0\src\scc-core\lex.h
+	"common.h"
+
+1404882977 d:\users\admin\desktop\scc release v1.0\src\scc-core\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"debug.h"
+	"token.h"
+	"err.h"
+
+1404636971 d:\users\admin\desktop\scc release v1.0\src\scc-core\token.h
+	"token_keywords.h"
+
+1404636892 d:\users\admin\desktop\scc release v1.0\src\scc-core\token_keywords.h
+
+1404883111 source:d:\users\admin\desktop\scc release v1.0\src\scc-core\main.c
+	"lex.h"
+	"parse.h"
+	"gen.h"
+
+1404536496 d:\users\admin\desktop\scc release v1.0\src\scc-core\parse.h
+	"common.h"
+
+1404546896 d:\users\admin\desktop\scc release v1.0\src\scc-core\gen.h
+	"common.h"
+
+1404539539 source:d:\users\admin\desktop\scc release v1.0\src\scc-core\parse.c
+	"parse.h"
+	"lex.h"
+
+1404399019 source:d:\users\admin\desktop\scc release v1.0\src\scc-core\test.c
+	"gen.h"
+
+1404883023 d:\users\admin\desktop\scc release v1.0\src\scc-core\err.h
+
+1404882852 source:d:\users\admin\desktop\scc release v1.0\src\scc-core\code.c
+	"code.h"
+	<windows.h>
+
+1404547748 d:\users\admin\desktop\scc release v1.0\src\scc-core\code.h
+	"common.h"
+
+1404884117 source:d:\users\admin\desktop\scc release v1.0\src\scc-core\gen.c
+	"lex.h"
+	"code.h"
+	<windows.h>
+
