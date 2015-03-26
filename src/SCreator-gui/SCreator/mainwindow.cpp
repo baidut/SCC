@@ -210,20 +210,20 @@ void MainWindow::on_action_code_triggered()
 void MainWindow::on_action_about_triggered()
 {
     QMessageBox::about(this, tr("关于这个玩意"),
-             tr("<h3>样本S语言编译器</h3>"
+             tr("<h3>样本S语言编译器 版本1.1.1</h3>"
                 "编译原理课程设计作品<br>"
                 "学生：应振强 班级 电计1101 学号201181086<hr>"
                 "感谢您的测试！目前的功能有待完善，欢迎报告错误和提供建议<br>"
-                "联系方式 <u>13591120447@163.com</u><br>"
+                "联系方式 <u>yingzhenqiang@163.com</u><br>"
                 "此外，工程源码开放，你可以从github上克隆这个项目<br>"
                 "项目地址：<a href='https://github.com/baidut/SCC/'>https://github.com/baidut/SCC/</a>"));
 }
 void MainWindow::on_action_seeReport_triggered()
 {
-   QDesktopServices::openUrl(QUrl("http://www.baidut.sinaapp.com/SCreator/"));
+   QDesktopServices::openUrl(QUrl("https://github.com/baidut/SCC/releases"));
 }
 
 void MainWindow::on_action_seeDoc_triggered()
 {
-    QDesktopServices::openUrl(QUrl("readMe.pdf"));
+    QDesktopServices::openUrl(QUrl("http://baidut.github.io/SCC/"));
 }
