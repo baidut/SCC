@@ -15,5 +15,5 @@ The Sample Language's Core Compiler
 
 GUI : SCreator
 --------------
-![image](./images/core.jpg)
+![image](./images/screator.jpg)
 
